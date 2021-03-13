@@ -1,6 +1,6 @@
 Hi 👋
 
-<img align="right" width="250px" src="https://edoverflow.com/securitytxt-06.png" />
+<img align="right" width="200px" src="https://edoverflow.com/securitytxt-06.png" />
 
 I am a web designer, developer, security researcher, and have experience triaging for numerous vulnerability disclosure programs. In my spare time, I enjoy swimming, photography, cinematography, and playing the guitar.
 
