@@ -10,6 +10,4 @@ In 2017, I published an Internet Draft for a proposed standard which allows webs
 
 ---
 
-| Website     | https://edoverflow.com/            |
-| ----------- | ---------------------------------- |
-| **Twitter** | **https://twitter.com/EdOverflow** |
+[edoverflow.com](https://edoverflow.com) • [@EdOverflow](https://twitter.com/EdOverflow)
